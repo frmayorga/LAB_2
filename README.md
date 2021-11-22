@@ -12,6 +12,9 @@ Realizar la aplicación del análisis de mallas en circuitos eléctricos además
 
 ## OBJETIVOS ESPECIFICOS
 
+- comparar los resultados obtenidos en la corriente existenete en cada malla de manera experimental, analitica y simulada.
+- aplicar el metodo de analisis de mallas para encontrar valores de corriente en un circuito, mediante la cual podamos conocer mas caracteristicas de los componentes del circuito como lo son el voltaje o la resistencia.
+
 # MARCO TEORICO
 
 ![Marco teorico](https://user-images.githubusercontent.com/93361435/142778540-6e5adb05-28c8-42a5-b124-837869409550.jpg)
@@ -96,6 +99,8 @@ TABLA:
 
 # CONCLUSIONES
 
+- el analis de mallas es sumanente importante pues no ayuda a determinar las corrientes que circulan por una malla, la cual no es mas que un caso particular de trayectorias, es decir, una zona en la que la corriente circula sin interrupciones.una vez que obtenemos esta corriente podemos obtener otros datos que tambien son necesarios como por ejemplo el voltaje en cada componente.
+- tras analizar los resultados obtenidos pudimos apreciar que existia una gran precision, por este motivo se podria decir que el analisis de mallas es un metodo sumamente exacto. de esta manera podemos confiar en que los resultados obtenido con este metodo son muy cercanos a los reales.
 
 
 # BIBLIOGRAFIA
