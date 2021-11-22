@@ -60,6 +60,24 @@ Obteniendo los siguientes resultados (con la ayuda de una calculadora online)
 
 ![image](https://user-images.githubusercontent.com/93361435/142781950-ba984bfc-9585-4a99-99d3-77b3884a3083.png)
 
+### resultados experimentales:
+
+- en primer lugar y con la ayuda de un simulador de circuitos esquematicos, procedemos a graficar nuestro ejercicio:  
+![image](https://user-images.githubusercontent.com/93398718/142787267-7eba2f72-c83e-4779-ad9e-de7defffad34.png)
+- ahora procedemos a medir la corriente existente en cada una de las mallas de modo que podamos comparar los resultados obtenidos experimentalmente:  
+![image](https://user-images.githubusercontent.com/93398718/142787496-b4ef7403-9452-4c98-a34e-52a1acde8799.png)
+- la razon por la cual medimos la corriente de las mallas en las resistencias R1, R2 y R3 es por que atravez de ellas podemos obtener una corriente que no se ve afectada por las demas corrientes de las otras mallas y esta corriente es la de su mmalla correpondiente.
+
+- ahora que tenemos los datos procedemos a realizar su analisis:  
+
+| MALLA | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
+|--------|------------|-------------------|-------------|
+| MALLA 1 | 11.45 mA | 11.455 mA  |  |
+| MALLA 2 | 2.847 mA | 2.8474 mA  |  |
+| MALLA 3 | 488.12 uA | 488.12 uA  |  |
+
+- como podemos apreciar los resultados son muy similares, asi que podemos asegurar que existe un alto grado de exaxtitud en los calculos.
+
 
 # RESPUESTA A INTERROGANTES Y CALCULO DE ERROR 
 
@@ -67,9 +85,9 @@ TABLA:
 
 | MALLA | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
 |--------|------------|-------------------|-------------|
-| MALLA 1 | 11.45 mA |   |  |
-| MALLA 2 | 2.847 mA |   |  |
-| MALLA 3 | 488.12 uA |   |  |
+| MALLA 1 | 11.45 mA | 11.455 mA  |  |
+| MALLA 2 | 2.847 mA | 2.8474 mA  |  |
+| MALLA 3 | 488.12 uA | 488.12 uA  |  |
 
 
 # VIDEO
