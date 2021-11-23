@@ -14,6 +14,7 @@ Realizar la aplicación del análisis de mallas en circuitos eléctricos además
 
 - comparar los resultados obtenidos en la corriente existenete en cada malla de manera experimental, analitica y simulada.
 - aplicar el metodo de analisis de mallas para encontrar valores de corriente en un circuito, mediante la cual podamos conocer mas caracteristicas de los componentes del circuito como lo son el voltaje o la resistencia.
+- determinar los resultados necesarios para poder interpretarlos de mejor manera, al igual que detectar el error que existe entre los diferestes calculos.  
 
 # MARCO TEORICO
 
@@ -113,7 +114,7 @@ TABLA:
 
 ### CALCULO DE ERROR:
 
--El error que nosotros calculamos es el error porcentual para asi poder tener una idea mas clara de cuanto es nuestro error, para esto utilizamos lasiguiente formula 
+-El error que nosotros calculamos es el error porcentual para asi poder tener una idea mas clara de cuanto es nuestro error, para esto utilizamos la siguiente formula 
 
 ![image](https://user-images.githubusercontent.com/93561706/142971592-5e81a366-edb6-4dc9-9eb0-1fbcf34d1157.png)
 
@@ -137,7 +138,7 @@ TABLA:
 
 - el analis de mallas es sumanente importante pues no ayuda a determinar las corrientes que circulan por una malla, la cual no es mas que un caso particular de trayectorias, es decir, una zona en la que la corriente circula sin interrupciones.una vez que obtenemos esta corriente podemos obtener otros datos que tambien son necesarios como por ejemplo el voltaje en cada componente.
 - tras analizar los resultados obtenidos pudimos apreciar que existia una gran precision, por este motivo se podria decir que el analisis de mallas es un metodo sumamente exacto. de esta manera podemos confiar en que los resultados obtenido con este metodo son muy cercanos a los reales.
-- 
+- una vez que a pudimos verificar los valores en los diferentes resultados pudimos apreciar el gran cambio que hay con respecto a las cifras significativas, el cual debemos tener muy en cuenta para evitar tener errores tan grandes, es por eso que debemos manejarlos de la misma manera con los diferentes resultados que tengamos.
 
 
 # BIBLIOGRAFIA
