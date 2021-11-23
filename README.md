@@ -69,9 +69,29 @@ Obteniendo los siguientes resultados (con la ayuda de una calculadora online)
 ![image](https://user-images.githubusercontent.com/93398718/142787267-7eba2f72-c83e-4779-ad9e-de7defffad34.png)
 - ahora procedemos a medir la corriente existente en cada una de las mallas de modo que podamos comparar los resultados obtenidos experimentalmente:  
 ![image](https://user-images.githubusercontent.com/93398718/142787496-b4ef7403-9452-4c98-a34e-52a1acde8799.png)
-- la razon por la cual medimos la corriente de las mallas en las resistencias R1, R2 y R3 es por que atravez de ellas podemos obtener una corriente que no se ve afectada por las demas corrientes de las otras mallas y esta corriente es la de su mmalla correpondiente.
+- la razon por la cual medimos la corriente de las mallas en las resistencias R1, R2 y R3 es por que atravez de ellas podemos obtener una corriente que no se ve afectada por las demas corrientes de las otras mallas y esta corriente es la de su malla correpondiente.
 
 - ahora que tenemos los datos procedemos a realizar su analisis:  
+
+| MALLA | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
+|--------|------------|-------------------|-------------|
+| MALLA 1 | 11.45 mA | 11.455 mA  |  |
+| MALLA 2 | 2.847 mA | 2.8474 mA  |  |
+| MALLA 3 | 488.12 uA | 488.12 uA  |  |
+
+- como podemos apreciar los resultados son muy similares, asi que podemos asegurar que existe un alto grado de exaxtitud en los calculos.
+
+### resultados simulados:
+
+- Luego procedemos a graficar nuestro ejercicio, con la ayuda de un simulador de circuitos(tinkercad):
+
+![image](https://user-images.githubusercontent.com/93561706/142970600-072ce257-496d-4b74-ab1e-d3b5525ce2e6.png)
+
+- De la misma manera que en el anterior simulador pasamoa a medir la corriente existente en cada una de las mallas de modo que podamos comparar los resultados obtenidos en los resistores R1,R2 Y R3 para asi poder obtener el resultado de las mallas correspondientes.
+
+![image](https://user-images.githubusercontent.com/93561706/142970404-b1928558-b8c9-4bfd-b0c1-47b09545989f.png)
+
+-Una vez ya obtenidos los resultados hacemos el analisis. 
 
 | MALLA | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
 |--------|------------|-------------------|-------------|
@@ -79,9 +99,8 @@ Obteniendo los siguientes resultados (con la ayuda de una calculadora online)
 | MALLA 2 | 2.847 mA | 2.8474 mA  | 2.85 mA |
 | MALLA 3 | 488.12 uA | 488.12 uA  | 488 uA |
 
-- como podemos apreciar los resultados son muy similares, asi que podemos asegurar que existe un alto grado de exaxtitud en los calculos.
-
-
+- Como podemos observar los resultados varian en lo que son cifras significativas y eso es por como manejamos las cifras decimales.
+ 
 # RESPUESTA A INTERROGANTES Y CALCULO DE ERROR 
 
 TABLA: 
