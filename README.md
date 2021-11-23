@@ -111,6 +111,26 @@ TABLA:
 | MALLA 2 | 2.847 mA | 2.8474 mA  | 2.85 mA |
 | MALLA 3 | 488.12 uA | 488.12 uA  | 488 uA |
 
+### CALCULO DE ERROR:
+
+-El error que nosotros calculamos es el error porcentual para asi poder tener una idea mas clara de cuanto es nuestro error, para esto utilizamos lasiguiente formula 
+
+![image](https://user-images.githubusercontent.com/93561706/142971592-5e81a366-edb6-4dc9-9eb0-1fbcf34d1157.png)
+
+-Observamos que como tenemos tres mallas y cada malla tiene tres valores que corresponden a los resultados analiticos, experimental y simulado, respectivamente nos toca sacar un error para cada uno de eso valores es decir tres errores correspondientes a las resultados y uno correspondiente a la malla.
+
+![image](https://user-images.githubusercontent.com/93561706/142971758-b18ee8a2-2e52-4222-a343-ee3aaa742db9.png)
+
+![image](https://user-images.githubusercontent.com/93561706/142971799-a6219d00-67e2-4c02-a4f7-8fba058c426f.png)
+
+![image](https://user-images.githubusercontent.com/93561706/142971852-9722799b-41e6-4fe8-b7e7-6f89b6868897.png)
+
+-Una vez que ya emos calculado los errore respectivos, tenemos que calcular un ultimo errer el cual corresponde al del ccircuito.
+
+![image](https://user-images.githubusercontent.com/93561706/142971978-83b9f84e-6146-43ee-8e2c-ba118c6720e3.png)
+
+
+
 
 # VIDEO
 
