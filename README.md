@@ -123,14 +123,11 @@ TABLA:
 
 ![image](https://user-images.githubusercontent.com/93561706/142971799-a6219d00-67e2-4c02-a4f7-8fba058c426f.png)
 
-![image](https://user-images.githubusercontent.com/93561706/142971852-9722799b-41e6-4fe8-b7e7-6f89b6868897.png)
+![image](https://user-images.githubusercontent.com/93561706/142972044-c967a1eb-f9e6-490b-b2de-dc85a28e94d7.png)
 
--Una vez que ya emos calculado los errore respectivos, tenemos que calcular un ultimo errer el cual corresponde al del ccircuito.
+-Una vez que ya hemos calculado los errores respectivos, tenemos que calcular un ultimo error el cual corresponde al del circuito, elcual nos ayuda a entender de cuanto es el error de circuito con respecto a todos los resultados.
 
 ![image](https://user-images.githubusercontent.com/93561706/142971978-83b9f84e-6146-43ee-8e2c-ba118c6720e3.png)
-
-
-
 
 # VIDEO
 
