@@ -88,9 +88,9 @@ TABLA:
 
 | MALLA | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
 |--------|------------|-------------------|-------------|
-| MALLA 1 | 11.45 mA | 11.455 mA  |  |
-| MALLA 2 | 2.847 mA | 2.8474 mA  |  |
-| MALLA 3 | 488.12 uA | 488.12 uA  |  |
+| MALLA 1 | 11.45 mA | 11.455 mA  | 11.5 mA |
+| MALLA 2 | 2.847 mA | 2.8474 mA  | 2.85 mA |
+| MALLA 3 | 488.12 uA | 488.12 uA  | 488 uA |
 
 
 # VIDEO
@@ -101,6 +101,7 @@ TABLA:
 
 - el analis de mallas es sumanente importante pues no ayuda a determinar las corrientes que circulan por una malla, la cual no es mas que un caso particular de trayectorias, es decir, una zona en la que la corriente circula sin interrupciones.una vez que obtenemos esta corriente podemos obtener otros datos que tambien son necesarios como por ejemplo el voltaje en cada componente.
 - tras analizar los resultados obtenidos pudimos apreciar que existia una gran precision, por este motivo se podria decir que el analisis de mallas es un metodo sumamente exacto. de esta manera podemos confiar en que los resultados obtenido con este metodo son muy cercanos a los reales.
+- 
 
 
 # BIBLIOGRAFIA
