@@ -76,9 +76,9 @@ Obteniendo los siguientes resultados (con la ayuda de una calculadora online)
 
 | MALLA | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
 |--------|------------|-------------------|-------------|
-| MALLA 1 | 11.45 mA | 11.455 mA  | 11.5 mA |
-| MALLA 2 | 2.847 mA | 2.8474 mA  | 2.85 mA |
-| MALLA 3 | 488.12 uA | 488.12 uA  | 488 uA |
+| MALLA 1 | 11.45 mA | 11.455 mA  | |
+| MALLA 2 | 2.847 mA | 2.8474 mA  |  |
+| MALLA 3 | 488.12 uA | 488.12 uA  |  |
 
 - como podemos apreciar los resultados son muy similares, asi que podemos asegurar que existe un alto grado de exaxtitud en los calculos.
 
